@@ -3,7 +3,7 @@
 ___
 
 
-Eventrix is a user-friendly and portable tool designed for analyzing Windows Event Log files (.evtx). Providing a comprehensive, but simple, GUI to navigate and interpret event data, Eventrix streamlines the process of exploring EVTX events, acting as a platform agnostic alternative the Windows Event Viewer.
+Eventrix is a user-friendly and portable tool designed for analyzing Windows Event Log files (.evtx). Providing a comprehensive, but simple, GUI to navigate and interpret event data, Eventrix streamlines the process of exploring EVTX events, acting as a platform agnostic alternative to Windows Event Viewer.
 
 
 ![Alt Text](./pics/screenshot1.png)
